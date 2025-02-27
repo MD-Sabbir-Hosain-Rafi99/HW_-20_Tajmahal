@@ -1,0 +1,48 @@
+/* Extra large devices  */
+@media (min-width: 1200px) {
+}
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+/* Extra small devices  */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .card {
+    width: 95%;
+  }
+  .imageDay {
+    background: url(../images/dayTajmahal.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 215px;
+    background-size: contain;
+  }
+  .imageNight {
+    background: url(../images/nightTajmahal.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 215px;
+    background-size: contain;
+  }
+  .my-5 {
+    margin-top: 1rem !important;
+    margin-bottom: 0rem !important;
+  }
+}

@@ -2,3 +2,36 @@
     margin: 0;
     padding: 0;
 }
+
+/* .nightTajmahal{
+    background: url(../images/nightTajmahal.jpg);
+    height: 700px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
+.day{
+    background: url(../images/dayTajmahal.jpg);
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+} */
+ .card{
+    width: 40%;
+ }
+.imageDay{
+    background: url(../images/dayTajmahal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    
+}
+.imageNight{
+    background: url(../images/nightTajmahal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+.btn{
+    margin-bottom: 10px;
+}
+
